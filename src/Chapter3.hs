@@ -1,4 +1,4 @@
-module TypesClasses where
+module Chapter3 where
 {- Chapter 3 -}
 
 {- 3.6 Curried functions -}
